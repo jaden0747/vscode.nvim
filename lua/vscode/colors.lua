@@ -57,6 +57,7 @@ colors.get_colors = function()
 
             -- Syntax colors
             vscGray = '#808080',
+            vscLightGray = '#d4d4d4',
             vscViolet = '#646695',
             vscBlue = '#569CD6',
             vscAccentBlue = '#4FC1FF',
@@ -74,6 +75,7 @@ colors.get_colors = function()
             vscYellow = '#DCDCAA',
             vscDarkYellow = '#FFD602',
             vscPink = '#C586C0',
+            vscLightPink = '#f6c9f6',
 
             -- Low contrast with default background
             vscDimHighlight = '#51504F',
